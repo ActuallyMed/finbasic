@@ -1,3 +1,3 @@
-  # Finbasic: Very basic financial calculator
-  This python project can be used to see your finances and savings. While it is, very basic, it will be upgraded in coming time.
+  # Globe
+A globe built with HTML. Accesible at: {actuallymed.github.io/globe}(actuallymed.github.io/globe)
   
